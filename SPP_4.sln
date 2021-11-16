@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsGeneratorLib", "TestsGeneratorLib\TestsGeneratorLib.csproj", "{2551F3D0-E109-40DD-8265-DD58E70BC60C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleApp", "ExampleApp\ExampleApp.csproj", "{C01B39F1-C8DC-418C-8B00-AFEF93D845E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestsGeneratorLib.Tests", "TestsGeneratorLib.Tests\TestsGeneratorLib.Tests.csproj", "{96DCF160-98D0-4F0B-AE83-B59E0A8198BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2551F3D0-E109-40DD-8265-DD58E70BC60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2551F3D0-E109-40DD-8265-DD58E70BC60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2551F3D0-E109-40DD-8265-DD58E70BC60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2551F3D0-E109-40DD-8265-DD58E70BC60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01B39F1-C8DC-418C-8B00-AFEF93D845E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01B39F1-C8DC-418C-8B00-AFEF93D845E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01B39F1-C8DC-418C-8B00-AFEF93D845E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01B39F1-C8DC-418C-8B00-AFEF93D845E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96DCF160-98D0-4F0B-AE83-B59E0A8198BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96DCF160-98D0-4F0B-AE83-B59E0A8198BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96DCF160-98D0-4F0B-AE83-B59E0A8198BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96DCF160-98D0-4F0B-AE83-B59E0A8198BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
